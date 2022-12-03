@@ -6,6 +6,10 @@
 ## Biblioteca React Js
 ## Ferramentas HTML/CSS
 
+
 ## Backend
 ## Framework Spring Boot
 ## Linguagem Java
+
+
+## Banco de dados
